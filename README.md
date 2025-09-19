@@ -24,14 +24,3 @@ This project demonstrates **full-stack development skills**, **API integration**
 - **Development Tools:** VSCode, Postman (for API testing)
 
 ---
-
-## Installation
-
-1. **Clone the repository:**
-```bash
-git clone https://github.com/NicholasKlassen/Text-Summarizer.git
-cd Text-Summarizer
-
-Frontend: HTML, CSS, JavaScript
-
-API Integration: OpenAI API
